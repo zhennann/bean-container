@@ -1,0 +1,23 @@
+{
+  "name": "bean-container",
+  "version": "0.0.2",
+  "description": "bean-container",
+  "main": "./src/index.js",
+  "author": "zhennann",
+  "keywords": [
+    "cabloy",
+    "js",
+    "bean",
+    "container",
+    "ioc"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/bean-container.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhennann/bean-container/issues"
+  },
+  "homepage": "https://github.com/zhennann/bean-container#readme"
+}
